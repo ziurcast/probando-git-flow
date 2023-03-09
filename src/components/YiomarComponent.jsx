@@ -9,7 +9,7 @@ const YiomarComponent = () => {
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quos quo
         ut? Nulla harum molestias, exercitationem saepe distinctio nesciunt
         corporis eveniet iste beatae vero hic illum expedita reprehenderit
-        tempora fuga?
+        tempora fuga 2?
       </p>
     </div>
   );
