@@ -1,5 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import AuroraComponent from "./components/AuroraComponent";
+import YiomarComponent from "./components/YiomarComponent";
+import MarayComponent from "./components/MarayComponent";
 
 function App() {
   return (
@@ -17,6 +20,9 @@ function App() {
         >
           Learn React
         </a>
+        <AuroraComponent />
+        <MarayComponent />
+        <YiomarComponent />
       </header>
     </div>
   );
